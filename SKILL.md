@@ -1,11 +1,11 @@
 ---
-name: mock-interviewer
-description: 帮助编程助手进行一对一、逐题深挖的模拟面试，可结合岗位、简历、JD 或项目仓库动态选题并生成结构化复盘。用于用户明确要求实时模拟面试或项目深挖；不用于静态题库、简历修改、面经研究或单题点评。覆盖技术、产品/运营及行为/HR 面，默认不安排手撕算法。
+name: interview-lens
+description: 让编程助手基于岗位、简历、JD 或代码仓库进行一对一深度模拟面试，并生成有证据的结构化复盘。用于实时模拟面试或项目深挖；不用于静态题库、简历修改、面经研究或单题点评。覆盖技术、产品/运营及行为/HR 面，默认不安排手撕算法。
 metadata:
-  short-description: 一对一对话式模拟面试与复盘
+  short-description: 基于简历、JD 与代码仓库的深度模拟面试
 ---
 
-# Mock Interviewer（模拟面试官）
+# 面试透镜（Interview Lens）
 
 ## 目标与边界
 
